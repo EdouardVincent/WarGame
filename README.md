@@ -8,3 +8,5 @@ I am sorry too for the names of the images and songs (OIP) but i don't why but t
 Do not hesitate to check my code and try to run it, I work with the version 3.9.5 of python on windows and Thonny Python IDLE on rpi4, my version of pygame is the 2.0.1.
 
 See you later !
+
+PS : I got a problem with GitHub, for that the game work, you need to create a file "Niveau.txt"
